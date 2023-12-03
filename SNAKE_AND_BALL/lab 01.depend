@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1697184738 source:c:\users\blue sky\desktop\oops\lab 01\main.cpp
+	<windows.h>
+	<conio.h>
+	<math.h>
+	<fstream>
+	<iostream>
+	<cstdlib>
+	<string>
+
