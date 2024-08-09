@@ -1,12 +1,3 @@
-  //   Samreen Fatima kazmi   52
-       //   Anam Fatima             01
-       //   Harram Sattar           07
-       //    Laraib Sultana         06
-
-
-
-
-
 
 #include <windows.h>
 #include <conio.h>
